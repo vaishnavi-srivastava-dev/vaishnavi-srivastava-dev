@@ -31,7 +31,6 @@
 ![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge)
 ![Client Server Architecture](https://img.shields.io/badge/Client--Server_Architecture-4CAF50?style=for-the-badge)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🔐 APIs & Security
 
@@ -43,6 +42,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
