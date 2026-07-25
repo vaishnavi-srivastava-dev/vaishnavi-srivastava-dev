@@ -47,11 +47,12 @@
  <img src="https://img.shields.io/badge/Oracle_Coherence-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Development Environment
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
