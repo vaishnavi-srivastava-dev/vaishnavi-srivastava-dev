@@ -30,7 +30,7 @@
 
 ![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge)
 ![Client Server Architecture](https://img.shields.io/badge/Client--Server_Architecture-4CAF50?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### 🔐 APIs & Security
 
