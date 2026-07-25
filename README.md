@@ -10,7 +10,7 @@
 - Backend System Design
 - Distributed Systems
 - Cloud & DevOps practices
-- Advanced Java and Spring ecosystem
+- Java and SpringBoot ecosystem
 
 ✨ I believe in learning by building, staying curious, and taking on new challenges with an open mind.
 
