@@ -70,7 +70,7 @@ Check out my projects and experiments here:
 ## 🤝 Let's Connect
 
 <p>
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vaishnavi-srivastava-b74568359/)">
+<a href="https://www.linkedin.com/in/vaishnavi-srivastava-b74568359/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
