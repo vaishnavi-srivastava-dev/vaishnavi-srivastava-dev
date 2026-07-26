@@ -6,12 +6,22 @@
 
 🚀 I enjoy exploring new technologies, understanding how systems work behind the scenes, and creating solutions that are scalable and reliable.
 
+<table>
+<tr>
+<td width="60%">
+
 🌱 Currently exploring:
 - Backend System Design
 - Distributed Systems
 - Cloud & DevOps practices
 - Java and SpringBoot ecosystem
 
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif" width="300"/>
+</td>
+</tr>
+</table>
 ✨ I believe in learning by building, staying curious, and taking on new challenges with an open mind.
 
 ---
